@@ -80,7 +80,7 @@ Array [
             
             <span>
               <input
-                className="FormControl-sc-1amoaox-0 hdNTyr form-control"
+                className="FormControl-sc-1amoaox-0 deAIE form-control"
                 defaultValue="testam"
                 id="title-input0"
                 label=""
@@ -100,7 +100,7 @@ Array [
             
             <span>
               <input
-                className="FormControl-sc-1amoaox-0 hdNTyr form-control"
+                className="FormControl-sc-1amoaox-0 deAIE form-control"
                 defaultValue="http://localhost:8080/system/"
                 id="value-input0"
                 label=""
@@ -260,7 +260,7 @@ Array [
             
             <span>
               <input
-                className="FormControl-sc-1amoaox-0 hdNTyr form-control"
+                className="FormControl-sc-1amoaox-0 deAIE form-control"
                 defaultValue="test"
                 id="title-input1"
                 label=""
@@ -280,7 +280,7 @@ Array [
             
             <span>
               <input
-                className="FormControl-sc-1amoaox-0 hdNTyr form-control"
+                className="FormControl-sc-1amoaox-0 deAIE form-control"
                 defaultValue="http://localhost:8080/system/"
                 id="value-input1"
                 label=""
@@ -440,7 +440,7 @@ Array [
             
             <span>
               <input
-                className="FormControl-sc-1amoaox-0 hdNTyr form-control"
+                className="FormControl-sc-1amoaox-0 deAIE form-control"
                 defaultValue="test"
                 id="title-input2"
                 label=""
@@ -460,7 +460,7 @@ Array [
             
             <span>
               <input
-                className="FormControl-sc-1amoaox-0 hdNTyr form-control"
+                className="FormControl-sc-1amoaox-0 deAIE form-control"
                 defaultValue="http://localhost:8080/system/"
                 id="value-input2"
                 label=""
